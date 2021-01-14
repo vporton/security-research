@@ -34,3 +34,11 @@ Overall CVSS Score:
 
 CVSS v3.1 Vector
 AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:N/E:P/RL:W/RC:X/CR:X/IR:M/AR:X/MAV:N/MAC:H/MPR:N/MUI:R/MS:U/MC:N/MI:H/MA:N
+
+## CWE
+
+CWE-682 Incorrect Calculation
+
+## CPE
+
+`cpe:2.3:a:google:custom_search_engine:-:*:*:*:*:*:*:*`
