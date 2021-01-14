@@ -14,3 +14,23 @@ In addition, I broke Russia in the most severe way. (That's the second bug repor
 Please read the attached bug reports carefully and take an appropriate action. Response appreciated.
 
 [block-science.odt](block-science.odt), [sect-politic.odt](sect-politic.odt)
+
+## CVSS
+
+CVSS Base Score:
+5.3
+Impact Subscore:
+3.6
+Exploitability Subscore:
+1.6
+CVSS Temporal Score:
+4.9
+CVSS Environmental Score:
+4.9
+Modified Impact Subscore:
+3.6
+Overall CVSS Score:
+4.9
+
+CVSS v3.1 Vector
+AV:N/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:N/E:P/RL:W/RC:X/CR:X/IR:M/AR:X/MAV:N/MAC:H/MPR:N/MUI:R/MS:U/MC:N/MI:H/MA:N
